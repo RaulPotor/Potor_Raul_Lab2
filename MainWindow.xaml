@@ -54,7 +54,7 @@ Width="182">
             </MenuItem>
             <MenuItem Header="_Doughnuts">
                 <MenuItem Header="Make">
-                    <MenuItem Header="Raised" Click="MenuItem_Click">
+                    <MenuItem Header="Raised">
                         <MenuItem x:Name="glazedToolStripMenuItem" Header="Glazed" Click="glazedToolStripMenuItem_Click" IsCheckable="True"/>
                         <MenuItem x:Name="sugarToolStripMenuItem" Header="Sugar" Click="sugarToolStripMenuItem_Click" IsCheckable="True"/>
                     </MenuItem>
